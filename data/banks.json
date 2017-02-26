@@ -1,0 +1,390 @@
+[
+  {
+    "Bahamas": [
+      {
+        "name": "Central bank",
+        "id": 1,
+        "customers": 5000,
+        "employees": 200,
+        "directorId": 1
+      },
+      {
+        "name": "Government-owned banks",
+        "id": 2,
+        "customers": 5000,
+        "employees": 200,
+        "directorId": 2
+      },
+      {
+        "name": "Commercial banks",
+        "id": 3,
+        "customers": 5000,
+        "employees": 200,
+        "directorId": 3
+      }
+    ]
+  },
+  {
+    "Barbados": [
+      {
+        "name": "Central bank",
+        "id": 4,
+        "customers": 5000,
+        "employees": 200,
+        "directorId": 4
+      },
+      {
+        "name": "Commercial banks",
+        "id": 6,
+        "directorId": 6,
+        "customers": 5000,
+        "employees": 200
+      },
+      {
+        "name": "Development banks",
+        "id": 7,
+        "directorId": 7,
+        "customers": 5000,
+        "employees": 200
+      },
+      {
+        "name": "Foreign-owned banks",
+        "id": 8,
+        "directorId": 8,
+        "customers": 5000,
+        "employees": 200
+      }
+    ]
+  },
+  {
+    "Belize": [
+      {
+        "name": "Central bank",
+        "id": 9,
+        "directorId": 9,
+        "customers": 5000,
+        "employees": 200
+      },
+      {
+        "name": "Development bank",
+        "id": 10,
+        "directorId": 10,
+        "customers": 5000,
+        "employees": 200
+      },
+      {
+        "name": "Major privately owned banks",
+        "id": 11,
+        "directorId": 11,
+        "customers": 5000,
+        "employees": 200
+      }
+    ]
+  },
+  {
+    "Bolivia": [
+      {
+        "name": "Central bank",
+        "id": 12,
+        "directorId": 12,
+        "customers": 5000,
+        "employees": 200
+      },
+      {
+        "name": "Government-owned banks",
+        "id": 13,
+        "directorId": 13,
+        "customers": 5000,
+        "employees": 200
+      },
+      {
+        "name": "Commercial Banks",
+        "id": 14,
+        "directorId": 14,
+        "customers": 5000,
+        "employees": 200
+      },
+      {
+        "name": "Foreign-owned banks",
+        "id": 15,
+        "directorId": 15,
+        "customers": 5000,
+        "employees": 200
+      },
+      {
+        "name": "Defunct Banks",
+        "id": 16,
+        "directorId": 16,
+        "customers": 5000,
+        "employees": 200
+      }
+    ]
+  },
+  {
+    "Brazil": [
+      {
+        "name": "Central bank",
+        "id": 17,
+        "directorId": 17,
+        "customers": 5000,
+        "employees": 200
+      },
+      {
+        "name": "Major privately owned banks",
+        "id": 18,
+        "directorId": 18,
+        "customers": 5000,
+        "employees": 200
+      },
+      {
+        "name": "Government-owned banks",
+        "id": 19,
+        "directorId": 19,
+        "customers": 5000,
+        "employees": 200
+      },
+      {
+        "name": "Merged",
+        "id": 20,
+        "directorId": 20,
+        "customers": 5000,
+        "employees": 200
+      },
+      {
+        "name": "Foreign-owned banks",
+        "id": 21,
+        "directorId": 21,
+        "customers": 5000,
+        "employees": 200
+      },
+      {
+        "name": "Merged or defunct banks",
+        "id": 22,
+        "directorId": 22,
+        "customers": 5000,
+        "employees": 200
+      }
+    ]
+  },
+  {
+    "Canada": [
+      {
+        "name": "Central bank",
+        "id": 23,
+        "directorId": 23,
+        "customers": 5000,
+        "employees": 200
+      },
+      {
+        "name": "Big Five banks",
+        "id": 24,
+        "directorId": 24,
+        "customers": 5000,
+        "employees": 200
+      },
+      {
+        "name": "Other banks",
+        "id": 25,
+        "directorId": 25,
+        "customers": 5000,
+        "employees": 200
+      },
+      {
+        "name": "Defunct or merged banks",
+        "id": 5,
+        "directorId": 5,
+        "customers": 5000,
+        "employees": 200
+      }
+    ]
+  },
+  {
+    "Chile": [
+      {
+        "name": "Central bank",
+        "id": 26,
+        "directorId": 26,
+        "customers": 5000,
+        "employees": 200
+      },
+      {
+        "name": "Government-owned banks",
+        "id": 27,
+        "directorId": 27,
+        "customers": 5000,
+        "employees": 200
+      },
+      {
+        "name": "Commercial banks",
+        "id": 28,
+        "directorId": 28,
+        "customers": 5000,
+        "employees": 200
+      },
+      {
+        "name": "Foreign banks with representation",
+        "id": 29,
+        "directorId": 29,
+        "customers": 5000,
+        "employees": 200
+      },
+      {
+        "name": "Merged or defunct banks",
+        "id": 30,
+        "directorId": 30,
+        "customers": 5000,
+        "employees": 200
+      }
+    ]
+  },
+  {
+    "Colombia": [
+      {
+        "name": "Central bank",
+        "id": 31,
+        "directorId": 31,
+        "customers": 5000,
+        "employees": 200
+      },
+      {
+        "name": "Commercial banks",
+        "id": 32,
+        "directorId": 32,
+        "customers": 5000,
+        "employees": 200
+      }
+    ]
+  },
+  {
+    "Costa Rica": [
+      {
+        "name": "Central bank",
+        "id": 33,
+        "directorId": 33,
+        "customers": 5000,
+        "employees": 200
+      },
+      {
+        "name": "Government-owned banks",
+        "id": 34,
+        "directorId": 34,
+        "customers": 5000,
+        "employees": 200
+      },
+      {
+        "name": "Commercial banks",
+        "id": 35,
+        "directorId": 35,
+        "customers": 5000,
+        "employees": 200
+      }
+    ]
+  },
+  {
+    "Dominica": [
+      {
+        "name": "Commercial banks",
+        "id": 36,
+        "directorId": 36,
+        "customers": 5000,
+        "employees": 200
+      },
+      {
+        "name": "Branches of foreign banks",
+        "id": 37,
+        "directorId": 37,
+        "customers": 5000,
+        "employees": 200
+      },
+      {
+        "name": "Foreign-owned banks",
+        "id": 38,
+        "directorId": 38,
+        "customers": 5000,
+        "employees": 200
+      },
+      {
+        "name": "Offshore banks",
+        "id": 39,
+        "directorId": 39,
+        "customers": 5000,
+        "employees": 200
+      }
+    ]
+  },
+  {
+    "Dominican Republic": [
+      {
+        "name": "Central bank",
+        "id": 40,
+        "directorId": 40,
+        "customers": 5000,
+        "employees": 200
+      },
+      {
+        "name": "Major banks",
+        "id": 41,
+        "directorId": 41,
+        "customers": 5000,
+        "employees": 200
+      }
+    ]
+  },
+  {
+    " Ecuador": [
+      {
+        "name": "Central bank",
+        "id": 42,
+        "directorId": 42,
+        "customers": 5000,
+        "employees": 200
+      },
+      {
+        "name": "Major banks",
+        "id": 43,
+        "directorId": 43,
+        "customers": 5000,
+        "employees": 200
+      }
+    ]
+  },
+  {
+    " Mexico": [
+      {
+        "name": "Central bank",
+        "id": 44,
+        "directorId": 44,
+        "customers": 5000,
+        "employees": 200
+      },
+      {
+        "name": "Mexican banks",
+        "id": 45,
+        "directorId": 45,
+        "customers": 5000,
+        "employees": 200
+      },
+      {
+        "name": "Foreign-owned banks",
+        "id": 46,
+        "directorId": 46,
+        "customers": 5000,
+        "employees": 200
+      },
+      {
+        "name": "Development banks",
+        "id": 47,
+        "directorId": 47,
+        "customers": 5000,
+        "employees": 200
+      },
+      {
+        "name": "Defunct banks",
+        "id": 48,
+        "directorId": 48,
+        "customers": 5000,
+        "employees": 200
+      }
+    ]
+  }
+]
