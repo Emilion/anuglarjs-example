@@ -16,6 +16,21 @@ It is recommended to use integrated lite-server.
 Execute:
 ``` npm run lite ```
 
+# Folder structure
+```
+project Folder
+|
+|
+ app/
+    |
+        app.js
+    |
+        your/folder/structure/
+|
+|
+index.html
+```
+
 # SCOPE
 * Basics in angularJs custom directives
 
