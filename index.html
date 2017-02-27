@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en" ng-app="exampleApp">
+<head>
+    <meta charset="UTF-8">
+    <title>AngularJS example</title>
+    <script src="node_modules/jquery/dist/jquery.min.js"></script>
+    <link rel="stylesheet" href="node_modules/bootstrap/dist/css/bootstrap.css" />
+    <script src="node_modules/bootstrap/dist/js/bootstrap.min.js"></script>
+    <script src="node_modules/angular/angular.js"></script>
+    <script src="node_modules/angular-ui-router/release/angular-ui-router.min.js"></script>
+
+    <script src="./app/shared.module.js"></script>
+    <script src="./app/context.menu.directive.js"></script>
+
+    <script src="./app/app.js"></script>
+    <script src="./app/dashboard.controller.js"></script>
+    <script src="./app/directors.controller.js"></script>
+    <script src="./app/directors.directive.js"></script>
+</head>
+<body>
+<!-- NAVIGATION -->
+<nav class="navbar navbar-inverse" role="navigation">
+    <div class="navbar-header">
+        <a class="navbar-brand" ui-sref="dashboard">AngularUI Router</a>
+    </div>
+    <ul class="nav navbar-nav">
+        <li><a ui-sref="dashboard">dashboard</a></li>
+    </ul>
+    <ul class="nav navbar-nav">
+        <li><a ui-sref="directors">directors</a></li>
+    </ul>
+</nav>
+<div class="container-fluid">
+    <div ui-view></div>
+</div>
+</body>
+</html>
