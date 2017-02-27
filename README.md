@@ -21,14 +21,15 @@ open Terminal(Unix) or CMD(Windows) and to navigate to the project folder.
 ```
 cd path/to/exampleApp
 ```
-4. Then execute ``` npm install ```.
+4. Then execute ```npm install``` .
 5. Now you have all dependencies installed. It`s time to develop.
-Run ``` npm run lite ```.
+Run ```npm run lite```.
 
 This will start node server on port 3000. If this port conflicts, you can change it in
 ```bs-config.js```
 
 ## Folder structure
+```
 ```
 project Folder
 |
@@ -46,6 +47,7 @@ project Folder
 |
 |
 |-index.html
+
 ```
 
 ## Valuable Materials
