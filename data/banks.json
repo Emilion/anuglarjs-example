@@ -1,6 +1,7 @@
 [
   {
-    "Bahamas": [
+    "region": "Bahamas",
+    "banks": [
       {
         "name": "Central bank",
         "id": 1,
@@ -25,7 +26,8 @@
     ]
   },
   {
-    "Barbados": [
+    "region": "Barbados",
+    "banks": [
       {
         "name": "Central bank",
         "id": 4,
@@ -57,7 +59,8 @@
     ]
   },
   {
-    "Belize": [
+    "region": "Belize",
+    "banks": [
       {
         "name": "Central bank",
         "id": 9,
@@ -82,7 +85,8 @@
     ]
   },
   {
-    "Bolivia": [
+    "region": "Bolivia",
+    "banks": [
       {
         "name": "Central bank",
         "id": 12,
@@ -121,7 +125,8 @@
     ]
   },
   {
-    "Brazil": [
+    "region": "Brazil",
+    "banks": [
       {
         "name": "Central bank",
         "id": 17,
@@ -167,7 +172,8 @@
     ]
   },
   {
-    "Canada": [
+    "region": "Canada",
+    "banks": [
       {
         "name": "Central bank",
         "id": 23,
@@ -199,7 +205,8 @@
     ]
   },
   {
-    "Chile": [
+    "region": "Chile",
+    "banks": [
       {
         "name": "Central bank",
         "id": 26,
@@ -238,7 +245,8 @@
     ]
   },
   {
-    "Colombia": [
+    "region": "Colombia",
+    "banks": [
       {
         "name": "Central bank",
         "id": 31,
@@ -256,7 +264,8 @@
     ]
   },
   {
-    "Costa Rica": [
+    "region": "Costa Rica",
+    "banks": [
       {
         "name": "Central bank",
         "id": 33,
@@ -281,7 +290,8 @@
     ]
   },
   {
-    "Dominica": [
+    "region": "Dominica",
+    "banks": [
       {
         "name": "Commercial banks",
         "id": 36,
@@ -313,7 +323,8 @@
     ]
   },
   {
-    "Dominican Republic": [
+    "region": "Dominican Republic",
+    "banks": [
       {
         "name": "Central bank",
         "id": 40,
@@ -331,7 +342,8 @@
     ]
   },
   {
-    " Ecuador": [
+    "region": "Ecuador",
+    "banks": [
       {
         "name": "Central bank",
         "id": 42,
@@ -349,7 +361,8 @@
     ]
   },
   {
-    " Mexico": [
+    "region": "Mexico",
+    "banks": [
       {
         "name": "Central bank",
         "id": 44,
